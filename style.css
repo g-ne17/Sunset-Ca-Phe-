@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(255, 153, 0, 0.685);
+}
+h1{
+    font-size: 3rem;
+    font-family:pacifico;
+    font-weight: lighter; 
+    
+}
+h2{
+    font-family: josefin slab;
+}
+.sunset{
+    width: 100%;
+    margin-right: 50%;
+    color: rgb(17, 0, 255);
+    text-align: center;
+}
+
+p {
+    font-family:over the rainbow;
+    font-size: 1.5rem;
+    font: weight:lighter;
+    color:cornsilk;
+    text-align:center;
+    position:absolute;
+    left: 50px;
+    top: 70px;
+}
+
+.coffee{
+    font-family: Franklin Gothic Medium;
+    text-align: center;
+    display: inline-block;
+    border: 10px solid whitesmoke;
+    width: 550px;
+    height: 450px;
+    margin: 20px;
+    margin-left: 10%;
+
+}
+
+.artsy{
+    font-family:over the rainbow;
+    color: antiquewhite;
+    text-align: center;
+    display: block;
+    border: 10px solid whitesmoke;
+    width: 550px;
+    height: 450px;
+    margin: 20px; 
+    margin-left:45%;
+}
